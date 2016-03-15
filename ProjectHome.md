@@ -1,0 +1,1 @@
+The 8-Queens Problem on a chessboard, which has 92 solutions, is a well-known hard problem. The N-Queens Problem is an extension of the classical 8-Queens Problem. The problem is to put N queens on a NxN board so that no two queens attack each other. The program will calculate the total solutions satisfying the restrictions.
